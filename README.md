@@ -30,7 +30,7 @@ Open XAMPP control panel and..
 
 And here your SETUP is done!!!!!!
 
-Now simply open new tab in chrome and type the following command : http://localhost/Cake0.1/login.php
+Now simply open new tab in chrome and type the following command : localhost/Cake0.1/login.php
 
 And there we go.. here's your WEBSITE ready for uhh.
 
