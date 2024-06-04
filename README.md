@@ -37,3 +37,5 @@ And there we go.. here's your WEBSITE ready for uhh.
 THANK YOU!
 
 ![image](https://github.com/SakshiTalware098/GRANDMA-s-KITCHEN/assets/100411378/533c52d9-97cc-40ea-8042-b85d249ec6ca)
+
+![image](https://github.com/SakshiTalware098/GRANDMA-s-KITCHEN/assets/100411378/7ffdab59-0b95-49bb-ab08-975bef40ba6f)
