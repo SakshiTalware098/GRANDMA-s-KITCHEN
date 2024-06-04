@@ -35,3 +35,5 @@ Now simply open new tab in chrome and type the following command : http://localh
 And there we go.. here's your WEBSITE ready for uhh.
 
 THANK YOU!
+
+![image](https://github.com/SakshiTalware098/GRANDMA-s-KITCHEN/assets/100411378/533c52d9-97cc-40ea-8042-b85d249ec6ca)
