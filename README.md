@@ -3,11 +3,11 @@
 
 Needed Softwares for working of website :
 
-XAMPP control panel v3.3.0
-Visual Studio Code
+ | XAMPP control panel v3.3.0
+ | Visual Studio Code |
 Firstly we need to make sure that all the files downloaded by you should be stored in a particular folder named as :
 
-Cake0.1
+"Cake0.1"
 Now the Cake0.1 folder created should be present in htdocs folder, and for this htdocs folder go into your file explorer and within file explorer fo the following path :
 
 "C:\xampp\htdocs"
